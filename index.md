@@ -13,3 +13,10 @@ git init
 git add .
 git commit -m "se añade codigo en md"
 ```
+
+## 4. añadir tasklist
+
+- [x] levantarse
+- [x] orar
+- [ ] ir al baño
+- [ ] hacer ejercicio
