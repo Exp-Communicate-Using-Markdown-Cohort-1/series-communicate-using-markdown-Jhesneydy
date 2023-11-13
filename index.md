@@ -1,22 +1,23 @@
-# 1. estes es un titulo
+
+# 1. esto es un titulo 
 
 ## 2. añadir imagen
 
 ![emoji](https://i.pinimg.com/1200x/55/f6/d8/55f6d8518d5db75f947d35e86816bd5b.jpg)
 
-## 3. añadir un trozo de codigo.
+
+## 3. insertar lineas de codigo
 
 
 ```
 git init
 git add .
-git commit -m "se realiza insercion de codito en mdown"
+git commit -m "se añade codigo en md"
 ```
 
-
-##  4. realizar una tasklist
+## 4. añadir tasklist
 
 - [x] levantarse
-- [x] hacer oracion
+- [x] orar
 - [ ] ir al baño
-- [ ] hacer ejercio
+- [ ] hacer ejercicio
