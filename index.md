@@ -2,7 +2,7 @@
 
 ## 2. añadir imagen
 
-![emoji](https://i.pinimg1.com/474x/1f/7f/82/1f7f8257d528bb17eca78c2188f47c28.jpg)
+![emoji](https://i.pinimg.com/1200x/55/f6/d8/55f6d8518d5db75f947d35e86816bd5b.jpg)
 
 ## 3. añadir un trozo de codigo.
 
